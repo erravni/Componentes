@@ -1,7 +1,8 @@
 // App.jsx
 import React from 'react';
-import ComponenteA from '.C:\Projects\Components\Componente1';
-import ComponenteB from '.C:\Projects\Components\Componente2';
+import "./app.css"
+import ComponenteA from '.C:\Projects\Components\componente\componente1';
+import ComponenteB from '.C:\Projects\Components\componenteb\componente2';
 
 function App() {
   return (
